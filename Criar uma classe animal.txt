@@ -1,0 +1,25 @@
+package exercicios;
+
+import java.util.Scanner;
+
+public class animal {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+Scanner leia = new Scanner(system.in);
+
+System.out.println("Entre com o nome do animal");
+animal.nome =leianextLine
+System.out.println("Digite a especie");
+animal.especie = leia.nextLine();
+System.out.println("quantidade de patas");
+animal.quantidade de patas = leia.nextInt();
+
+
+System.out.println("Animal nome;"+ animal.nome" + Especie:\n" + animal especie + Quantidade de patas; \n"quantidade de patas);
+
+	}
+leia.closed();
+
+
+}
